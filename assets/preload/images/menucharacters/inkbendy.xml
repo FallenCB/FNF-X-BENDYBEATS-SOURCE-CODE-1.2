@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="inkbendy.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ink demon down0000" x="0" y="0" width="983" height="951"/>
+	<SubTexture name="ink demon down0001" x="0" y="0" width="983" height="951"/>
+	<SubTexture name="ink demon down0002" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon down0003" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon down0004" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon down0005" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon down0006" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon down0007" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon down0008" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon down0009" x="983" y="0" width="981" height="950" frameX="-2" frameY="0" frameWidth="983" frameHeight="951"/>
+	<SubTexture name="ink demon idle0000" x="1964" y="0" width="868" height="951"/>
+	<SubTexture name="ink demon idle0001" x="1964" y="0" width="868" height="951"/>
+	<SubTexture name="ink demon idle0002" x="2832" y="0" width="844" height="951" frameX="-5" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon idle0003" x="2832" y="0" width="844" height="951" frameX="-5" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon idle0004" x="0" y="951" width="819" height="951" frameX="-10" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon idle0005" x="0" y="951" width="819" height="951" frameX="-10" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon idle0006" x="819" y="951" width="799" height="951" frameX="-16" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon idle0007" x="819" y="951" width="799" height="951" frameX="-16" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon idle0008" x="1618" y="951" width="780" height="951" frameX="-21" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon idle0009" x="1618" y="951" width="780" height="951" frameX="-21" frameY="0" frameWidth="868" frameHeight="951"/>
+	<SubTexture name="ink demon left0000" x="2398" y="951" width="730" height="951" frameX="-27" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0001" x="2398" y="951" width="730" height="951" frameX="-27" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0002" x="3128" y="951" width="735" height="951" frameX="0" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0003" x="3128" y="951" width="735" height="951" frameX="0" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0004" x="3128" y="951" width="735" height="951" frameX="0" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0005" x="3128" y="951" width="735" height="951" frameX="0" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0006" x="3128" y="951" width="735" height="951" frameX="0" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0007" x="3128" y="951" width="735" height="951" frameX="0" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon left0008" x="3128" y="951" width="735" height="951" frameX="0" frameY="0" frameWidth="757" frameHeight="951"/>
+	<SubTexture name="ink demon right0000" x="0" y="1902" width="1114" height="951" frameX="-26" frameY="0" frameWidth="1154" frameHeight="951"/>
+	<SubTexture name="ink demon right0001" x="0" y="1902" width="1114" height="951" frameX="-26" frameY="0" frameWidth="1154" frameHeight="951"/>
+	<SubTexture name="ink demon right0002" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon right0003" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon right0004" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon right0005" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon right0006" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon right0007" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon right0008" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon right0009" x="1114" y="1902" width="1154" height="951"/>
+	<SubTexture name="ink demon up0000" x="2268" y="1902" width="941" height="951" frameX="0" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0001" x="2268" y="1902" width="941" height="951" frameX="0" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0002" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0003" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0004" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0005" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0006" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0007" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0008" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+	<SubTexture name="ink demon up0009" x="0" y="2853" width="917" height="953" frameX="-12" frameY="0" frameWidth="941" frameHeight="953"/>
+</TextureAtlas>

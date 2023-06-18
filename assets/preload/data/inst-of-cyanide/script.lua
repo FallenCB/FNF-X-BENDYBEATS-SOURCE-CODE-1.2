@@ -14,4 +14,6 @@ function onCreate()
     setProperty('chartedSubText.x', 1080);
     setProperty('chartedSubText.y', 40);
 
+    setProperty('gf.visible', false);
+
 end

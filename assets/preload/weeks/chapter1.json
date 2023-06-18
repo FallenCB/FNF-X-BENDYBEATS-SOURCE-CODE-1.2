@@ -1,0 +1,50 @@
+{
+	"storyName": "LITTLE-DEVIL DARLING",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "studio",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Welcome Home",
+			"cartoonbendy",
+			[
+				195,
+				120,
+				0
+			]
+		],
+		[
+			"Build our Machine",
+			"cartoonbendy",
+			[
+				195,
+				120,
+				0
+			]
+		],
+		[
+			"Gospel of Dismay",
+			"cartoonbendy",
+			[
+				195,
+				120,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bendy",
+		"boyfriend",
+		"gf_assets"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BendyBeats Chapter 1"
+}

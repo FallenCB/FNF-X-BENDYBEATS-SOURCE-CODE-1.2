@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Recording-Town",
+			"cartoonbendy",
+			[
+				135,
+				115,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": null,
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "?",
+	"weekName": "BendyBeats ? Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "chapter3",
+	"startUnlocked": false
+}

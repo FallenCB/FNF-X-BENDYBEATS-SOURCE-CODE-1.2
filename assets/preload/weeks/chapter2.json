@@ -1,0 +1,41 @@
+{
+	"storyName": "THE WOLF IN SHEEPISH CLOTHING",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "domain",
+	"weekBefore": "chapter1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"I Am Me",
+			"boris",
+			[
+				246,
+				193,
+				0
+			]
+		],
+		[
+			"Recording Gold",
+			"sammy",
+			[
+				186,
+				133,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"boris",
+		"boyfriend",
+		"gf_assets"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BendyBeats Chapter 2"
+}

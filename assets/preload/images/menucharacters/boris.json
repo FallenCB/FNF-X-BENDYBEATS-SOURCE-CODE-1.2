@@ -1,0 +1,11 @@
+{
+	"idle_anim": "monster idle",
+	"image": "boris",
+	"position": [
+		190,
+		179
+	],
+	"flipX": false,
+	"scale": 0.65,
+	"confirm_anim": "monster idle"
+}

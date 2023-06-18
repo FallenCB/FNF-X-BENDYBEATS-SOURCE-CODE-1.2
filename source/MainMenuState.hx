@@ -26,7 +26,7 @@ using StringTools;
 class MainMenuState extends MusicBeatState
 {
 	public static var psychEngineVersion:String = '0.6.3'; //This is also used for Discord RPC
-	public static var vsBendyVersion:String = '1.2'; //Its really 1.0 but I think beta v4 was good enough to be given the title of "Vs Bendy V1"
+	public static var vsBendyVersion:String = '1.51'; //benday
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;

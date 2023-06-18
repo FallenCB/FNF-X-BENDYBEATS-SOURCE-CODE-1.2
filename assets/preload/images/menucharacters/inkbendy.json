@@ -1,0 +1,11 @@
+{
+	"idle_anim": "ink demon idle",
+	"image": "inkbendy",
+	"position": [
+		394,
+		320
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "ink demon idle"
+}

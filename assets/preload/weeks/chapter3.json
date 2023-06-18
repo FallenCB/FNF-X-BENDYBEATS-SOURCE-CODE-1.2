@@ -1,0 +1,50 @@
+{
+	"storyName": "THE INK DEMON",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "domain",
+	"weekBefore": "chapter2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cant be Erased",
+			"inkbendy",
+			[
+				40,
+				20,
+				0
+			]
+		],
+		[
+			"Inst of Cyanide",
+			"inkbendy",
+			[
+				40,
+				20,
+				0
+			]
+		],
+		[
+			"Masterpiece",
+			"inkbendy",
+			[
+				40,
+				20,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"inkbendy",
+		"boyfriend",
+		"gf_assets"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BendyBeats Chapter 3"
+}

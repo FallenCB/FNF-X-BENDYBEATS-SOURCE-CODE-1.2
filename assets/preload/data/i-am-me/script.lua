@@ -10,4 +10,5 @@ function onCreate()
     setProperty('chartedText.y', 20);
 
     setProperty('dad.y', 265);
+    setProperty('gf.visible', false);
 end

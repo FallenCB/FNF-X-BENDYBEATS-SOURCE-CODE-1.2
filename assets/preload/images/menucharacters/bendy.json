@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Pico Idle Dance",
+	"image": "bendy",
+	"position": [
+		174,
+		30
+	],
+	"flipX": true,
+	"scale": 0.75,
+	"confirm_anim": "Pico Idle Dance"
+}
